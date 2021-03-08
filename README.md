@@ -15,7 +15,7 @@ While learning how to use Git, we might as well get some 'free rice' for the UN 
 ## Instructions
 1. Download the code locally. You do this by clicking the green 'Code' button, copying the HTTPS link, and then using the `git clone` command in your terminal. Your command should look like this: 
 ```
-> git clone https://github.com/blueprintboulder/FreeRice.git
+git clone https://github.com/blueprintboulder/FreeRice.git
 ```
 
 2. Go to https://freerice.com/categories/english-vocabulary. Play for however much time you'd like, and make note of your score at the end (if you'd rather not play, please use 0 as your score to keep our tally accurate!)
